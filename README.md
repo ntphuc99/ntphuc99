@@ -1,11 +1,13 @@
 ![logo](header.jpg)
 
-<h1 align="center">Hi 👋, I'm Thanh Phuc</h1>
-<h3 align="center">A mobile app developer</h3>
+<h1 align="center">Hi 👋, I'm Nguyen Thanh Phuc</h1>
+
+<h3 align="center">React Native Developer | Mobile Application Engineer</h3>
+
+<p align="center"> <a href="mailto:ntphuc20011999@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <img src="https://img.shields.io/badge/Experience-5%2B%20Years-E65A24?style=for-the-badge" alt="Experience" /> <img src="https://img.shields.io/badge/Apps%20Shipped-12%2B-2EA44F?style=for-the-badge" alt="Apps shipped" /> </p>
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=E65A24&center=true&vCenter=true&width=650&lines=React+Native+Developer;Building+Cross-Platform+Mobile+Apps;REST+%26+GraphQL+API+Integration;Clean+UI+%7C+Maintainable+Code" alt="Typing SVG" /> </p>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
-</p>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50"/>
@@ -85,4 +87,4 @@
 
 <br/>
 
-</div># ntphuc99
+</div>
